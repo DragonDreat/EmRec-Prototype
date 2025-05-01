@@ -17,7 +17,7 @@
 </ul><ul>
 <li>and Other...</li>
 <h5>Steps</h5><ul>
-<li>You should Install it with pyinstaller and set it for noconsole so it wouldn't pop up a console :) and that's it! Downlaod opencv pyaudio and that and It's done!</li>
+<li>You should Install it with pyinstaller and set it for noconsole so it wouldn't pop up a console :) and that's it!</li>
 <li>Downlaod opencv pyaudio and that and It's done!</li>
 </ul><h2>Project Status</h2>
 <hr><p>In Progress. Still gonna make a GUI, and add some features!</p>
