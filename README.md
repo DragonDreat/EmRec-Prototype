@@ -1,3 +1,5 @@
+
+<hr><p><img src="https://i.imgur.com/NhkD8g7.png" alt=""></p>
 <h1>EmRec</h1>
 <hr><p>This is a Emergency Recording program, that runs in background and If you press F9 it starts recording.</p><h2>General Information</h2>
 <hr><ul>
@@ -21,4 +23,3 @@
 </ul><h2>Project Status</h2>
 <hr><p>In Progress. Still gonna make a GUI, and add some features!</p>
 
-<hr><p><img src="https://i.imgur.com/NhkD8g7.png" alt=""></p>
