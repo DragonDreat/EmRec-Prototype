@@ -1,6 +1,6 @@
 
 <h1>EmRec</h1>
-<hr><p>This is a Emergency Recording program, that runs in background and If you press F9 it starts recording.</p><h2>General Information</h2>
+<hr><p>This is a Emergency Recording program, that runs in background and If you press F9 it starts recording (the camera).</p><h2>General Information</h2>
 <hr><ul>
 <li>I made it in 30 min and this is just a prototype. Full Release is gonna be out in few days.It records 30 sec and then it stops. Thank you for using it! &lt;3</li>
 </ul><ul>
