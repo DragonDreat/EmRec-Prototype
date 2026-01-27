@@ -7,11 +7,22 @@ EmRec is a python open source project made for immediate emergency recording!
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all needed packages (listed below).
+1.Download [Python](https://www.python.org/downloads/) and EmRec.
+
+2.Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all needed packages (listed below).
 
 ```bash
 pip install pystray pillow plyer keyboard pyautogui opencv-python numpy pyaudio customtkinter
 ```
+3.Then you can open your command prompt or even VScode and run that, if you were to do that over command prompt here's what to type (You have to be in a directory where you saved camera-record.py and screen-record.py):
+
+```bash
+python.exe camera-record.py
+python.exe screen-record.py
+```
+4.Run that in separate cmds, and if you want to close them just close the CMD.
+
+5.Enjoy and test it as much as you can!
 
 ## Usage
 
