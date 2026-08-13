@@ -1,7 +1,7 @@
 import customtkinter as ctk
 import tkinter.filedialog as fd
 import tkinter as tk
-from tkinter import messagebox  # za poruku
+from tkinter import messagebox  
 
 def choose_directory():
     dir_path = fd.askdirectory()
@@ -12,7 +12,7 @@ def choose_directory():
         dir_entry.configure(state="readonly")
 
 def save_settings():
-    # Ovdje možeš dodati stvarno čuvanje ako želiš
+
     messagebox.showinfo("Saved", "Successfully Saved!")
 
 main = ctk.CTk()
